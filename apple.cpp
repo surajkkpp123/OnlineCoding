@@ -1,4 +1,4 @@
-//hello suraj i m hitesh
+//this code is for calculator!!!!!!!!!!!!!!!!!
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
